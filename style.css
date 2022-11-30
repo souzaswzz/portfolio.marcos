@@ -1,0 +1,29 @@
+
+body {
+    background-image: url(./bg/bg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#aviso {
+    width: fit-content;
+    margin: 52px auto;
+}
+
+#text {
+    background: #ffbf00;
+    padding: 0px 5px 0px 5px ; 
+  border-bottom: 4px white;
+  border-radius: 6px; 
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#apresentacao {
+    color: white;
+    padding: 0px 5px 0px 5px ; 
+  border-bottom: 4px white;
+  border-radius: 6px; 
+  text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
